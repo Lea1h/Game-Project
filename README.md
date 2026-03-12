@@ -54,6 +54,11 @@ these files are required for the game to launch.
 The game window should open and you can start playing.
 
 
+## Screenshot
+
+![Gameplay](screenshots/gameplay.png)
+
+
 ** Author
 
 - Assiya Aouinate
