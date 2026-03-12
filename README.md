@@ -56,7 +56,7 @@ The game window should open and you can start playing.
 
 ## Screenshot
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](project_folder/screenshots/gameplay.png)
 
 
 ** Author
