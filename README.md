@@ -56,4 +56,4 @@ The game window should open and you can start playing.
 
 ** Author
 
-- Assiya Aouinate# Game-Project
+- Assiya Aouinate
